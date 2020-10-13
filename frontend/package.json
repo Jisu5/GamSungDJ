@@ -55,6 +55,7 @@
     "vuejs-datepicker": "^1.6.2",
     "vuelidate": "^0.7.5",
     "vuetable-2": "^1.7.5",
+    "vuetify": "^2.3.13",
     "vuex": "^3.5.1"
   },
   "devDependencies": {

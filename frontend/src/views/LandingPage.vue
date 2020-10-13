@@ -41,11 +41,9 @@
               <div class="row home-row" id="homeRow">
                 <div class="col-12 d-block d-md-none">
                   <a :href="adminRoot" target="_blank">
-                    <img
-                      alt="mobile hero"
-                      class="mobile-hero"
-                      src="/assets/img/landing-page/home-hero-mobile.png"
-                    />
+                    <video controls>
+                      <source src="/assets/img/landing-page/intro.mp4" type="video/mp4">
+                    </video>
                   </a>
                 </div>
 
