@@ -9,7 +9,7 @@ django-allauth==0.42.0
 django-cors-headers==3.5.0
 django-extensions==3.0.8
 django-rest-auth==0.9.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 gunicorn
 idna==2.10
