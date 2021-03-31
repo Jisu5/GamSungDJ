@@ -16,7 +16,7 @@ idna==2.10
 joblib==0.14.0
 JPype1==1.0.2
 konlpy==0.5.2
-lxml==4.5.2
+lxml==4.6.3
 numpy==1.19.2
 oauthlib==3.1.0
 pandas==0.25.3
